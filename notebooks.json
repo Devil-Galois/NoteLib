@@ -1,0 +1,29 @@
+{
+  "notebooks" : [
+    {
+      "color" : "green",
+      "id" : "805DA185-4131-4A53-ABB2-81D2B908190E",
+      "name" : "我的笔记本",
+      "sections" : [
+        {
+          "id" : "6ABD2ED0-6C44-422B-8BFD-BA09BA74AF59",
+          "name" : "笔记"
+        }
+      ],
+      "symbol" : "book.closed"
+    },
+    {
+      "color" : "green",
+      "id" : "87A8FD83-C607-4C8B-9B83-33A218D08AA9",
+      "name" : "ICS 15-213",
+      "sections" : [
+        {
+          "id" : "36CFE85A-2DF2-49FD-85C4-7772EDB9B88E",
+          "name" : "笔记"
+        }
+      ],
+      "symbol" : "book.closed"
+    }
+  ],
+  "version" : 2
+}
