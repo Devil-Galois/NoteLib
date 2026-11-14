@@ -1,6 +1,17 @@
 {
   "notebooks" : [
-
+    {
+      "color" : "green",
+      "id" : "369E47BF-CE50-4100-B072-13FC508C7BBF",
+      "name" : "test",
+      "sections" : [
+        {
+          "id" : "C31389C7-476D-40DE-AEF8-9B3F5DE5B1E5",
+          "name" : "笔记"
+        }
+      ],
+      "symbol" : "book.closed"
+    }
   ],
   "version" : 2
 }
