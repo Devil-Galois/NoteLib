@@ -1,0 +1,5 @@
+# NoteJade：本机状态与临时文件不进入版本管理
+.local/
+.DS_Store
+Library.previous.json
+*.tmp
